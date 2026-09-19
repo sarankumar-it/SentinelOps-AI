@@ -1,6 +1,6 @@
 ﻿import streamlit as st
 import requests
-from app.config import API_URL
+from config import API_URL
 
 st.set_page_config(
     page_title="SentinelOps-AI",
